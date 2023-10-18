@@ -1,1 +1,1 @@
-"# DESAFIO DE PROJETO - Desenvolvendo um Projeto com o Paradigma de Programaá∆o Orientado Ö Aspectos #" 
+"# DESAFIO DE PROJETO - Desenvolvendo um Projeto com o Paradigma de Programa√ß√£o Orientado √† Aspectos #" 
